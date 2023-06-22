@@ -1,6 +1,11 @@
 # pytest-owner
 为用例增加归属人owner标记，运行用例时可以使用--owner指定用例归属人运行。
 
+![Languate - Python](https://img.shields.io/badge/language-python-blue.svg)
+![PyPI - License](https://img.shields.io/pypi/l/pytest-owner)
+![PyPI](https://img.shields.io/pypi/v/pytest-owner)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-owner)
+
 ## 安装方法
 ```shell
 pip install pytest-owner
